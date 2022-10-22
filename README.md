@@ -13,5 +13,5 @@ This is a [ESPHome](https://esphome.io/) config for the [AirGradient DIY Pro Pre
     ```
 
 ## Thanks
-- Thanks to https://github.com/airgradienthq and @achim for making a great kit
-- Thanks to @ajfriesen and https://github.com/ajfriesen/ESPHome-AirGradient for a starting point config for ESPHome.
+- Thanks to https://github.com/airgradienthq and Achim Haug for making a great kit
+- Thanks to [@ajfriesen](https://github.com/ajfriesen) and https://github.com/ajfriesen/ESPHome-AirGradient for a starting point config for ESPHome.
