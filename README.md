@@ -11,3 +11,7 @@ This is a [ESPHome](https://esphome.io/) config for the [AirGradient DIY Pro Pre
     ```sh
     esphome run airgradient.yaml
     ```
+
+## Thanks
+- Thanks to https://github.com/airgradienthq and @achim for making a great kit
+- Thanks to @ajfriesen and https://github.com/ajfriesen/ESPHome-AirGradient for a starting point config for ESPHome.
